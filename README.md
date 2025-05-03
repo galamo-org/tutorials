@@ -34,5 +34,3 @@ Please review the [contributing guidelines](https://github.com/astro-galamo/gala
 ## Contact and Support
 
 For questions, issues, or suggestions, please open an issue on the [GitHub repository](https://github.com/galamo-org/galamo/issues) or participate in [GitHub Discussions](https://github.com/orgs/galamo-org/discussions).
-
-```
