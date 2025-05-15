@@ -15,7 +15,6 @@ Currently, Galamo supports three key modules:
    Aimed at improving visibility in low signal-to-noise astronomical images, this module enhances features in faint galaxy images and lunar surface data using advanced image processing techniques.
 
 These modules are designed to support a wide range of research applications. For implementation details and example workflows, please refer to the tutorials and notebooks in the [GitHub tutorials section](https://github.com/astro-galamo/galamo/tree/main/tutorials).
-
 ---
 
 ## Contributing
